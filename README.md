@@ -1,4 +1,2 @@
-shellshock
-==========
-
-Sublime Text 2 Color Scheme
+shellshock // sublime text 2 color scheme
+=========================================
